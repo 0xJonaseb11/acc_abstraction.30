@@ -16,4 +16,9 @@ acc_abstraction.3.0
 forge init
 # Install account abstraction contract
 forge install eth-infinitism/account-abstraction@v0.7.0 --no-commit
+# Install openzeppelin contracts 
+forge install openzeppelin/openzeppelin-contracts@v5.0.2 --no-commit
 ```   
+
+------------
+@0xJonaseb11
